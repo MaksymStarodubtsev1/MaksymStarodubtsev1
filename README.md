@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Max 👋
 
 🚀 **Fullstack Developer** specializing in modern web technologies and CRM systems  
-📍 Based in [Lviv]  
+📍 Based in Lviv  
 📧 Contact: [maksym1starodubtsev@gmail.com](mailto:maksym1starodubtsev@gmail.com)
 
 ## 🔧 Technical Expertise
