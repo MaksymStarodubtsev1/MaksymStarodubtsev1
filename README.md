@@ -1,5 +1,4 @@
 # Hi, I'm Max 👋
-[![MaksymStarodubtsev1 profile views](https://u8views.com/api/v1/github/profiles/88541521/views/day-week-month-total-count.svg)](https://u8views.com/github/MaksymStarodubtsev1)
 
 🚀 **Fullstack Developer** specializing in modern web technologies and CRM systems  
 📍 Based in Lviv  
@@ -24,3 +23,5 @@
 
 ### CRM Specialization
 ✔ Custom CRM Solutions  
+
+[![MaksymStarodubtsev1 profile views](https://u8views.com/api/v1/github/profiles/88541521/views/day-week-month-total-count.svg)](https://u8views.com/github/MaksymStarodubtsev1)
